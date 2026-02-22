@@ -62,14 +62,6 @@ Pour Windows, téléchargez simplement l'exécutable.
 
 ---
 
-## 💡 Pourquoi c'est structuré comme ça ?
-
-* **Linux :** Le `curl | bash` est le standard de l'industrie pour une installation rapide.
-* **macOS :** Installation dans `/usr/local/bin` pour que la commande `paping` soit reconnue globalement immédiatement.
-* **Multi-langues :** Sections FR et EN incluses pour une meilleure compatibilité GitHub.
-
----
-
 # <img src="https://github.com/lipis/flag-icons/raw/main/flags/4x3/us.svg" width="24"> Documentation (EN)
 
 ## 💻 Compatibility & Installation
@@ -120,12 +112,3 @@ For Windows, simply download the executable.
 ## 👨‍💻 Credits
 
 Developed with ❤️ by AXEL CHETAIL ([https://infrawire.fr](https://infrawire.fr))
-
----
-
-## 🛠️ Documentation Improvements
-
-1. Removed buggy `<img>` tags and replaced them with lightweight icons.
-2. Clean code blocks for easy copy-paste on GitHub.
-3. Clear hierarchy for automatic GitHub table of contents.
-4. Full bilingual support (FR / EN) with flag sections for professional README display.
