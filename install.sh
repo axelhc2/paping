@@ -13,7 +13,7 @@ else
 fi
 
 echo "Téléchargement de paping..."
-URL="https://raw.githubusercontent.com/TON_USER/paping/main/bin/$BIN_NAME"
+URL="https://raw.githubusercontent.com/axelhc2/paping/main/bin/$BIN_NAME"
 
 sudo curl -L $URL -o /usr/bin/paping
 sudo chmod +x /usr/bin/paping
