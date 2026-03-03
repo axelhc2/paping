@@ -24,7 +24,7 @@
 La méthode la plus rapide pour installer la version Linux :
 
 ```bash
-curl -sL https://raw.githubusercontent.com/axelhc2/paping/main/install.sh | sudo bash
+curl -sL https://raw.githubusercontent.com/axelhc2/paping/main/install | sudo bash
 ```
 
 ---
@@ -71,7 +71,7 @@ Pour Windows, téléchargez simplement l'exécutable.
 The fastest way to install the Linux version:
 
 ```bash
-curl -sL https://raw.githubusercontent.com/axelhc2/paping/main/install.sh | sudo bash
+curl -sL https://raw.githubusercontent.com/axelhc2/paping/main/install | sudo bash
 ```
 
 ---
